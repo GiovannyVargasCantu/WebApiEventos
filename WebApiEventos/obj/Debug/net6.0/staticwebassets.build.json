@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "5D7DnNpUQrtj7L3Nyhd96u1Mb+Dc5TFpiQ04lSqZqm0=",
+  "Source": "WebApiEventos",
+  "BasePath": "_content/WebApiEventos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiEventos\\wwwroot",
+      "Source": "WebApiEventos",
+      "ContentRoot": "C:\\Users\\Giovanny Vargas\\source\\repos\\WebApiEventos\\WebApiEventos\\wwwroot\\",
+      "BasePath": "_content/WebApiEventos",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Giovanny Vargas\\source\\repos\\WebApiEventos\\WebApiEventos\\wwwroot\\PIAGestionEventos.txt",
+      "SourceId": "WebApiEventos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Giovanny Vargas\\source\\repos\\WebApiEventos\\WebApiEventos\\wwwroot\\",
+      "BasePath": "_content/WebApiEventos",
+      "RelativePath": "PIAGestionEventos.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\PIAGestionEventos.txt"
+    }
+  ]
+}
